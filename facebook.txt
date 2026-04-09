@@ -2961,7 +2961,6 @@
 0.0.0.0 www.symsrv.vip.facebook.com
 0.0.0.0 www.z-1-lookaside.fbsbx.com
 0.0.0.0 www.z-p3-cdn.fbsbx.com
-0.0.0.0 wwww.facebook.com
 0.0.0.0 xx-fbcdn-01-04-iad1.facebook.com
 0.0.0.0 xx-fbcdn-ecmp-02-atl1.fbcdn.net
 0.0.0.0 xx-fbcdn-ecmp-02-ord1.fbcdn.net
