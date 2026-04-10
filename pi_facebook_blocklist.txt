@@ -2899,7 +2899,6 @@
 0.0.0.0 work-trusted-acumen-8802.facebook.com
 0.0.0.0 work.facebook.com
 0.0.0.0 workplace.facebook.com
-0.0.0.0 ww.facebook.com
 0.0.0.0 ww1.facebook.com
 0.0.0.0 www-prod-shv-13-lla1.facebook.com
 0.0.0.0 www.apache.mirror.facebook.net
@@ -2936,7 +2935,6 @@
 0.0.0.0 www.f435288f380-jashrsbc1537897998-sonar.xx.fbcdn.net
 0.0.0.0 www.f905a8c2380-qeigzpml1538026578-sonar.xx.fbcdn.net
 0.0.0.0 www.f9441112980-dcnarema1537902419-sonar.xx.fbcdn.net
-0.0.0.0 www.facebook.com
 0.0.0.0 www.facebook.net
 0.0.0.0 www.facedome.facebook.net
 0.0.0.0 www.fbcdn.com
@@ -2945,7 +2943,6 @@
 0.0.0.0 www.fedora.mirror.facebook.net
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.ia-tracker.fbsbx.com
-0.0.0.0 www.login.facebook.com
 0.0.0.0 www.lookaside.fbsbx.com
 0.0.0.0 www.mirror.facebook.net
 0.0.0.0 www.new.facebook.com
