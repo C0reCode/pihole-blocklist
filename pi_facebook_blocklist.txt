@@ -1519,7 +1519,6 @@
 0.0.0.0 facebook-amex.facebook.com
 0.0.0.0 facebook-icd-autopay.facebook.com
 0.0.0.0 facebook-web-clients.appspot.com
-0.0.0.0 facebook.com
 0.0.0.0 facebook.facebook.com
 0.0.0.0 facedome.facebook.net
 0.0.0.0 fb.alpha.facebook.com
@@ -2127,7 +2126,6 @@
 0.0.0.0 lla2.facebook.com
 0.0.0.0 lm.facebook.com
 0.0.0.0 logger.instagram.com
-0.0.0.0 login.facebook.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 lookaside.fbcdn.com
 0.0.0.0 lookaside.fbsbx.com
